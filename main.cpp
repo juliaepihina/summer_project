@@ -147,4 +147,4 @@ int main()
     return 0;
 }
 
-//Тестовые примеры: [DONALD,GERALD,ROBERT], [MASHA, DASHA, KATYA].  
+//Test examples: [DONALD,GERALD,ROBERT], [MASHA, DASHA, KATYA].  
